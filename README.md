@@ -6,7 +6,7 @@ Software Developer
 
 I'm mainly working on java projects, but I have some frontend (like HTML, JS, CSS) experience, too. I like various and tough technical challenges.
 
-*   🌍  I'm based in Hungary
+*   🌍  I'm based in Switzerland
 *   🧠  I'm learning more frontend
 *   ⚡  Im an expert in debugging
 
